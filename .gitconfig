@@ -1,0 +1,7 @@
+[core]
+	editor = nvim
+[user]
+	name = Seatia
+	email = songtxiang@gmail.com
+[init]
+	defaultBranch = main
